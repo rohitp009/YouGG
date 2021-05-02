@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A8321C7D-9CF9-4548-9953-8B6B36D7AEC8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F7F43AD-826F-4509-98D6-80832B53C71E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouGGTests/YouGGTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testGetBrandModelForSelectedCategory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D062624E-15C5-43F8-9C1D-3E629AD6DCE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouGGTests/YouGGTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testGetBrandsCountForSelectedCategory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B00D1EE5-F8D7-4479-ABF2-8E80B043195C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouGG/Home/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getHomeInfo(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B00D1EE5-F8D7-4479-ABF2-8E80B043195C - 68d16a03e2cf6549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;YouGG.HomeModel&gt;) -&gt; () in YouGG.HomeViewModel.getHomeInfo(completed: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YouGG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/santoshgupta/Downloads/YouGG/YouGG/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "B00D1EE5-F8D7-4479-ABF2-8E80B043195C - 91ebcbf3ac3fe5ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;YouGGTests.HomeModel&gt;) -&gt; () in YouGGTests.HomeViewModel.getHomeInfo(completed: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YouGGTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/santoshgupta/Downloads/YouGG/YouGG/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A4B5FC3-9695-4971-A2C1-6D5BADF3AC0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouGG/Home/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getHomeInfo(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A4B5FC3-9695-4971-A2C1-6D5BADF3AC0D - 68d16a03e2cf65c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;YouGG.HomeModel&gt;) -&gt; () in YouGG.HomeViewModel.getHomeInfo(completed: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YouGG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/santoshgupta/Downloads/YouGG/YouGG/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "281">
+               </Location>
+               <Location
+                  uuid = "0A4B5FC3-9695-4971-A2C1-6D5BADF3AC0D - 91ebcbf3ac3fe527"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;YouGGTests.HomeModel&gt;) -&gt; () in YouGGTests.HomeViewModel.getHomeInfo(completed: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YouGGTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/santoshgupta/Downloads/YouGG/YouGG/Home/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "281">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2961BF0F-BCEC-43C0-844C-A3CB9146FF7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouGGTests/YouGGTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testGetBrandsCountForSelectedCategory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
